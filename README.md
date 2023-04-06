@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <video alt="Projeto GitFav" src=".github\README.mp4" width="100%">
+  <video alt="Projeto GitFav" src=".github\README.mp4.mp4" width="100%">
 </p>
 
 ## 🚀 Tecnologias
