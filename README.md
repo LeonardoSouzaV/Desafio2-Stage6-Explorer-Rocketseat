@@ -1,6 +1,6 @@
 <h1 align="center"> GitFav</h1>
 
-<p align="center">Desafio feito pela equipe de instrutores da Rocketseat para o curso EXPLORER, para melhor entendimento sobre JavaScript e consumo de APIs <br/>
+<p align="center">Desafio feito pela equipe de instrutores da Rocketseat para o curso EXPLORER, para melhor entendimento sobre JavaScript e consumo de API <br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <video alt="Projeto GitFav" src=".github\README.mp4.mp4" width="100%">
+  <img alt="Projeto GitFav" src=".github\README.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,6 +36,8 @@ O GitFav foi desenvolvido para estudar e aplicar tudo aprendido no curso até en
 - Funções, refatoração e modulação no JavaScript
 - Manipulação da DOM
 - Consumo de API
+
+--Na pasta .github possui um video da aplicação em funcionamento.
 
 ## 🗒️ Licença
 
