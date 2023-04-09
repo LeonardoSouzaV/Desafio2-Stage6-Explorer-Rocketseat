@@ -1,11 +1,11 @@
 <h1 align="center"> GitFav</h1>
 
-<p align="center">Desafio feito pela equipe de instrutores da Rocketseat para o curso EXPLORER, para melhor entendimento sobre JavaScript e consumo de API <br/>
+<p align="center">Challenge made by the team of instructors at Rocketseat for EXPLORER, for a better understanding of JavaScript and API consumption.<br/>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-License">License</a>
 </p>
 
 <p align="center">
@@ -15,36 +15,39 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto GitFav" src=".github\README.png" width="100%">
+  <img alt="Project GitFav" src=".github\README16(2).bmp" width="100%">
+  <img alt="Project GitFav" src=".github\README16(1).bmp" width="100%">
+  <img alt="Project GitFav" src=".github\README16(3).bmp" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
-- HTML e CSS
-- JavaScript e consumo de API
+- HTML and CSS;
+- JavaScript and API consumption;
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-O GitFav foi desenvolvido para estudar e aplicar tudo aprendido no curso até então. Com um foco maior no conteudo de JavaScript Puro e consumo de API. Entre os temas mais presentes estão:
+GitFav was developed to study the consumption and use of API. In this project we consume the API from Github to create a table with favorites users. Among the most common themes are:
 
-- Estrutura de dados no HTML
-- Animações com CSS
-- Estilização de scroll
-- Funções, refatoração e modulação no JavaScript
-- Manipulação da DOM
-- Consumo de API
+- Data and table structure in HTML;
+- Mobile First;
+- Animations with CSS;
+- scroll styling;
+- Functions, refactoring and modulation in JavaScript;
+- DOM manipulation;
+- API consumption;
 
---Na pasta .github possui um video da aplicação em funcionamento.
+--In the .github folder there is a video of the application in operation.
 
-## 🗒️ Licença
+## 🗒️ License
 
-Esse projeto está sob a licença MIT.
+This project is licensed under the MIT license.
 
 ---
 
-Feito com ♥ by Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Made with ♥ by Rocketseat 👋 [Participe da nossa comunidade (pt-BR)!](https://discord.gg/rocketseat)
 
 # Desafio2-Stage6-Explorer-Rocketseat
